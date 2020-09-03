@@ -1,1 +1,8 @@
 theme: jekyll-theme-architect
+permalink:           pretty
+# Setup
+title:               'Deep Learning'
+url:                 https://atcold.github.io/pytorch-Deep-Learning/
+baseurl:             '/pytorch-Deep-Learning'
+homepage_title:      Home
+default_lang:        'en'
