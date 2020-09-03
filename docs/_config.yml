@@ -23,9 +23,7 @@ kramdown:
     disable: true
   math_engine: null
 
-exclude:
-  - jekyllbook
-  
+ 
 prologues:
   - path: about.md  
 
