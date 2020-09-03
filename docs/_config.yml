@@ -7,22 +7,9 @@ url:                 https://iknyazeva.github.io/CV2020/
 homepage_title:      Home
 
 
-# For Maths
-defaults:
-  - scope:
-      path: "" # an empty string here means all files in the project
-    values:
-      layout: "custom"
 
 # For Maths
 markdown:            kramdown
-
-# To use hljs, disable the default highlighter
-kramdown:
-  syntax_highlighter_opts:
-    disable: true
-  math_engine: null
-
  
 prologues:
   - path: about.md  
