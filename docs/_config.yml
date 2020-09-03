@@ -2,7 +2,16 @@ theme: jekyll-theme-architect
 permalink:           pretty
 # Setup
 title:               'Deep Learning'
-url:                 https://atcold.github.io/pytorch-Deep-Learning/
-baseurl:             '/pytorch-Deep-Learning'
+url:                 https://iknyazeva.github.io/CV2020/
+baseurl:             '/CV2020'
 homepage_title:      Home
-default_lang:        'en'
+
+
+# For Maths
+markdown:            kramdown
+
+# To use hljs, disable the default highlighter
+kramdown:
+  syntax_highlighter_opts:
+    disable: true
+  math_engine: null
