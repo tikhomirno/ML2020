@@ -8,8 +8,27 @@ homepage_title:      Home
 
 
 # For Maths
+defaults:
+  - scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "custom"
+
+# For Maths
 markdown:            kramdown
 
+# To use hljs, disable the default highlighter
 kramdown:
-    math_engine: katex
+  syntax_highlighter_opts:
+    disable: true
+  math_engine: null
 
+exclude:
+  - jekyllbook
+  
+prologues:
+  - path: about.md  
+chapters:
+  - path: en/week01/01.md
+    sections:
+      - path: en/week01/01-1.md  
