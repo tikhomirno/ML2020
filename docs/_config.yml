@@ -10,12 +10,3 @@ homepage_title:      Home
 # For Maths
 markdown:            kramdown
 
-# To use hljs, disable the default highlighter
-kramdown:
-  syntax_highlighter_opts:
-    disable: true
-  math_engine: null
-  
-  
-  prologues:
-  - path: about.md
