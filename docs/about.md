@@ -9,5 +9,6 @@ $$
 e = mc^2
 $$
 
+$a = b^2$
 ## Still not working
 
