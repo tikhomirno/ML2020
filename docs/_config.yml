@@ -10,5 +10,6 @@ homepage_title:      Home
 # For Maths
 markdown:            kramdown
 
-plugins:
-  - jekyll-katex
+kramdown:
+    math_engine: katex
+
