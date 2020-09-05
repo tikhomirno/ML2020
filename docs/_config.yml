@@ -1,10 +1,13 @@
 
 permalink:           pretty
 # Setup
-title:               'Deep Learning'
+title:               'Computer vision and Image Processing'
 homepage_title:      Home
+url:                 https://iknyazeva.github.io/CV2020/
+baseurl:             '/CV2020'
 
-
+src:                 "."
+default_theme:       "ayu"
 
 # For Maths
 markdown:            kramdown
