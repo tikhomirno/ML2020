@@ -14,4 +14,10 @@ markdown:            kramdown
  
 prologues:
   - path: about.md  
+  chapters:
+  - path: /week01/01.md
+    sections:
+      - path: /week01/01-1.md
+      - path: /week01/01-2.md
+      - path: /week01/01-notes.md
 
