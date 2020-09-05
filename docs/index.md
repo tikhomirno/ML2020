@@ -1,12 +1,9 @@
-
-
-
 ---
 layout: default
 title: Компьютерное зрение и обработка изображений
 author: Ирина Князева
-lang-ref: home
 ---
+
 
 **Факультет свободных искусств и наук (Компьютерные науки и искуственный интеллект) · Осень 2020 · [Smolny College (CS program)](https://artesliberales.spbu.ru/en/education/bakalavariat/computer-science-and-artificial-intelligence)**
 
