@@ -17,10 +17,11 @@ title: О курсе
 ### Литература
 
 Две базовые книжки которые будем использовать.
-Christopher M. Bishop, Pattern Recognition and Machine Learning, Springer, 2006. - классическая книжка по машинному обучению
-Müller, Andreas C., and Sarah Guido. Introduction to machine learning with Python: a guide for data scientists. " O'Reilly Media, Inc.", 2016. - практически ориентированная, наш гид в мир изготовления ML моделек в Python
 
-[Deep Learning Book (2016). Ian Goodfellow and Yoshua Bengio and Aaron Courville.](https://www.deeplearningbook.org/)
+1. Christopher M. Bishop, Pattern Recognition and Machine Learning, Springer, 2006. - классическая книжка по машинному обучению
+2. Müller, Andreas C., and Sarah Guido. Introduction to machine learning with Python: a guide for data scientists. " O'Reilly Media, Inc.", 2016. - практически ориентированная, наш гид в мир изготовления ML моделек в Python
+
+3. [Deep Learning Book (2016). Ian Goodfellow and Yoshua Bengio and Aaron Courville.](https://www.deeplearningbook.org/)
 
 ### Требования и оценивание
 
