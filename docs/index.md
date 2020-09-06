@@ -50,7 +50,7 @@ author: Ирина Князева
       <td rowspan="1">Практика</td>
       <td>Знакомство с colab</td>
       <td>
-        <a href="https://colab.research.google.com/drive/1NvvoV3s7pKfNFGFqIYiejokziGfUXNME?usp=sharing">📓</a>
+        <a href="https://colab.research.google.com/drive/1A696xnGuUNRVzMvT_sWwjrNO2jJjrCS9?usp=sharing">Типы данных в Python📓</a>
       </td>
     </tr>
 <!-- =============================== WEEK 2 ================================ -->
@@ -288,9 +288,10 @@ TBA
 TBA
       </td>
     </tr>
-      <tr>
+  <!-- =============================== WEEK 14 ================================ -->
+  <tr>
     <td rowspan="3" align="center">⑮ (14/09)</td><td rowspan="3" align="center">Презентация проектов  🎭</td><td rowspan="3" align="center">🧑‍🎓👩‍🎓</td><td rowspan="3" align="center">🏆</td>
-    </tr>
+  </tr>
   </tbody>
 </table>
 
