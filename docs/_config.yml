@@ -18,7 +18,5 @@ prologues:
 chapters:
  - path: week01/01.md
    sections:
-     - path: week01/01-1.md
+     - path: tools.md
      - path: week01/01-2.md
-     - path: week01/01-notes.md
-
