@@ -1,2 +1,2 @@
-# CV2020
-CV course
+# ML2020
+ML course
