@@ -7,7 +7,7 @@ author: Ирина Князева
 
 **Факультет свободных искусств и наук (Компьютерные науки и искуственный интеллект) · Осень 2020 · [Smolny College (CS program)](https://artesliberales.spbu.ru/en/education/bakalavariat/computer-science-and-artificial-intelligence)**
 
-| Преподаватель | [Князева Ирина](https://artesliberales.spbu.ru/ru/faculty/personalii/knyazeva ) |
+| Преподаватель | [Князева Ирина](https://artesliberales.spbu.ru/ru/faculty/personalii/knyazeva ) i.knyazeva at spbu.ru|
 | Ассистент | Ольга Талалаева| 
 | Занятия   | Понедельник 16:20 – 20:00,  MsTeams |
 | Материалы   | [Google Class](https://classroom.google.com/c/MTUyOTU1MDM5Mjcz), [Notebooks](https://github.com/iknyazeva/CV2020/tree/master/assignments) |
