@@ -13,7 +13,8 @@ default_theme:       "ayu"
 markdown:            kramdown
  
 prologues:
-  - path: about.md  
+  - path: about.md
+  - path: tools.md
 chapters:
  - path: week01/01.md
    sections:
