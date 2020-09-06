@@ -7,7 +7,7 @@ url:                 https://iknyazeva.github.io/CV2020/
 baseurl:             '/CV2020'
 
 src:                 "."
-default_theme:       "ayu"
+default_theme:       "rust"
 
 # For Maths
 markdown:            kramdown
