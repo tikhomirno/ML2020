@@ -23,6 +23,10 @@ title: О курсе
 
 3. [Deep Learning Book (2016). Ian Goodfellow and Yoshua Bengio and Aaron Courville.](https://www.deeplearningbook.org/)
 
+### Полезные ссылки
+
+[Сайт русского дата сайенс сообщества](https://ods.ai/)
+
 ### Требования и оценивание
 
  1. Заметки по курсу: 20 баллов
